@@ -1,0 +1,86 @@
+[
+    {
+        "podcastName": "flow",
+        "episode": "CBUM - Flow #001 - O campeão de fisiculturismo mais dominante da história",
+        "videoId": "pQSuQmUfS30",
+        "categories": ["fitness", "esporte", "lifestyle"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "Neymar Jr - Flow #002 - Futebol, fama e vida fora dos campos",
+        "videoId": "aB3cD4eF5gH",
+        "categories": ["esporte", "entretenimento", "lifestyle"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "Luisa Sonza - Flow #003 - Música, polêmicas e saúde mental",
+        "videoId": "iJ6kL7mN8oP",
+        "categories": ["música", "entretenimento", "saúde mental"]
+    },
+    {
+        "podcastName": "inteligencia-ltda",
+        "episode": "Dr. Drauzio Varella - Inteligência Ltda #001 - Medicina, ciência e longevidade",
+        "videoId": "qR9sT0uV1wX",
+        "categories": ["saúde", "ciência", "educação"]
+    },
+    {
+        "podcastName": "inteligencia-ltda",
+        "episode": "Leandro Karnal - Inteligência Ltda #002 - Filosofia e o sentido da vida",
+        "videoId": "yZ1aB2cD3eF",
+        "categories": ["filosofia", "educação", "cultura"]
+    },
+    {
+        "podcastName": "inteligencia-ltda",
+        "episode": "Clóvis de Barros Filho - Inteligência Ltda #003 - Ética e felicidade",
+        "videoId": "gH4iJ5kL6mN",
+        "categories": ["filosofia", "educação", "comportamento"]
+    },
+    {
+        "podcastName": "venus",
+        "episode": "Brené Brown - Vênus #001 - Vulnerabilidade e coragem feminina",
+        "videoId": "oP7qR8sT9uV",
+        "categories": ["autoconhecimento", "feminismo", "saúde mental"]
+    },
+    {
+        "podcastName": "venus",
+        "episode": "Titi Müller - Vênus #002 - Maternidade, carreira e identidade",
+        "videoId": "wX0yZ1aB2cD",
+        "categories": ["maternidade", "lifestyle", "entretenimento"]
+    },
+    {
+        "podcastName": "nerdcast",
+        "episode": "NerdCast #001 - Inteligência Artificial vai dominar o mundo?",
+        "videoId": "eF3gH4iJ5kL",
+        "categories": ["tecnologia", "ciência", "cultura"]
+    },
+    {
+        "podcastName": "nerdcast",
+        "episode": "NerdCast #002 - A história dos videogames",
+        "videoId": "mN6oP7qR8sT",
+        "categories": ["tecnologia", "games", "cultura"]
+    },
+    {
+        "podcastName": "nerdcast",
+        "episode": "NerdCast #003 - Economia para quem odeia economia",
+        "videoId": "uV9wX0yZ1aB",
+        "categories": ["economia", "educação", "cultura"]
+    },
+    {
+        "podcastName": "podpah",
+        "episode": "Whindersson Nunes - Podpah #001 - Humor, fé e recomeços",
+        "videoId": "cD2eF3gH4iJ",
+        "categories": ["entretenimento", "humor", "lifestyle"]
+    },
+    {
+        "podcastName": "podpah",
+        "episode": "Deive Leonardo - Podpah #002 - Fé, propósito e transformação",
+        "videoId": "kL5mN6oP7qR",
+        "categories": ["religião", "motivação", "lifestyle"]
+    },
+    {
+        "podcastName": "podpah",
+        "episode": "Galvão Bueno - Podpah #003 - 40 anos narrando o esporte brasileiro",
+        "videoId": "sT8uV9wX0yZ",
+        "categories": ["esporte", "entretenimento", "cultura"]
+    }
+]
